@@ -4,4 +4,4 @@ Zen Material Theme for the Zed Ide
 
 ## Preview
 
-![zen material](./sccreenshot/zen-material-preview.png)
+![zen material](./screenshot/zen-material-preview.png)
