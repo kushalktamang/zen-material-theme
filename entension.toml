@@ -1,0 +1,7 @@
+id = "zen-material-theme"
+name = "Zen Material"
+version = "0.1.0"
+schema_version = 1
+authors = ["kushalktamang <kushaltamang0926@gmail.com>"]
+description = "A gruvbox material theme inspired with my own tweaks comes the zed material color scheme"
+repository = "https://github.com/kushalktamang/zen-material-theme"
